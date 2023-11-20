@@ -35,8 +35,8 @@
 ![DIAMOND_](https://github.com/Mukilkumar-SEC/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559663/a82ebb5c-99fa-45ef-bb9b-42a32f80d482)
 
 
-### Name: ARHAM S
-### Register Number: 212222110005
+### Name: KATHIRAVAN.P
+### Register Number: 212222230063
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
